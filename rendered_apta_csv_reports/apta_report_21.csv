@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-4803
+issued_in,Nicolebury
+consigned_from,"Murphy Inc
+6578 Hill Glens
+Robertstad, WI 21311"
+consigned_to,"Gordon PLC
+09638 Bates Alley Apt. 370
+Matthewburgh, NM 88375"
+transport_route,Sea via Michelleport
+official_use,Approved by Trade Dept.
+tariff_item_number,4723
+package_marks_numbers,PKG-223
+package_description,Charge now best check.
+origin_criterion,Rule C
+gross_weight_or_quantity,1716 kg
+invoice_number_date,INV-2975 dated 2016-02-16
+declaration_country,India
+importing_country,Guinea-Bissau
+declaration_place_date,"Gutierrezberg, 2002-11-19"
+declaration_signature,Michael Diaz
+certification_place_date,"Salinaschester, 1970-07-21"
+certification_signature_stamp,Robert Glass
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,5,Excellent performance under all tested conditions.
+Scalability,5,Excellent performance under all tested conditions.
+Robustness/Resilience,4,Good performance with minor improvements suggested.
+Latency,5,Excellent performance under all tested conditions.
+Throughput,4,Good performance with minor improvements suggested.
+Security,5,Excellent performance under all tested conditions.
+Usability/User-Friendliness,3,Acceptable performance; needs better optimization.
+Maintainability,4,Good performance with minor improvements suggested.
+Availability,5,Excellent performance under all tested conditions.
+Cost,4,Good performance with minor improvements suggested.
+Flexibility/Adaptability,4,Good performance with minor improvements suggested.
+Portability,4,Good performance with minor improvements suggested.
+Interoperability,4,Good performance with minor improvements suggested.
+Resource Utilization,4,Good performance with minor improvements suggested.
+Documentation Quality,3,Acceptable performance; needs better optimization.

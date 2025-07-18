@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-5167
+issued_in,North Debraland
+consigned_from,"Randolph Ltd
+6352 Perez Walk
+Guzmanmouth, MO 14474"
+consigned_to,"Barry-Oneal
+1157 Alice Unions
+Brownport, WY 19701"
+transport_route,Sea via East Renee
+official_use,Approved by Trade Dept.
+tariff_item_number,576
+package_marks_numbers,PKG-389
+package_description,Almost last effect exist family.
+origin_criterion,Rule C
+gross_weight_or_quantity,1779 kg
+invoice_number_date,INV-92441 dated 2011-10-24
+declaration_country,India
+importing_country,Grenada
+declaration_place_date,"South Stephanieville, 2011-12-29"
+declaration_signature,Nicholas Harris
+certification_place_date,"New Michaelland, 2007-01-31"
+certification_signature_stamp,Kyle Ramirez
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,3,Acceptable performance; needs better optimization.
+Scalability,5,Excellent performance under all tested conditions.
+Robustness/Resilience,3,Acceptable performance; needs better optimization.
+Latency,4,Good performance with minor improvements suggested.
+Throughput,3,Acceptable performance; needs better optimization.
+Security,5,Excellent performance under all tested conditions.
+Usability/User-Friendliness,4,Good performance with minor improvements suggested.
+Maintainability,5,Excellent performance under all tested conditions.
+Availability,3,Acceptable performance; needs better optimization.
+Cost,4,Good performance with minor improvements suggested.
+Flexibility/Adaptability,4,Good performance with minor improvements suggested.
+Portability,3,Acceptable performance; needs better optimization.
+Interoperability,5,Excellent performance under all tested conditions.
+Resource Utilization,5,Excellent performance under all tested conditions.
+Documentation Quality,3,Acceptable performance; needs better optimization.

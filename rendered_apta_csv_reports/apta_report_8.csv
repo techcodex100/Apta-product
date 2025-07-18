@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-5016
+issued_in,Parksmouth
+consigned_from,"Nguyen, Sharp and Christensen
+6028 Michael Mission
+Kathyhaven, GU 66963"
+consigned_to,"Perez-Logan
+USS Taylor
+FPO AA 93113"
+transport_route,Sea via Yoderfort
+official_use,Approved by Trade Dept.
+tariff_item_number,7484
+package_marks_numbers,PKG-370
+package_description,Without speak figure very.
+origin_criterion,Rule A
+gross_weight_or_quantity,1798 kg
+invoice_number_date,INV-42502 dated 2007-08-04
+declaration_country,India
+importing_country,Malaysia
+declaration_place_date,"Port Tammy, 2009-12-09"
+declaration_signature,Stephen Figueroa
+certification_place_date,"Ronaldport, 1988-05-02"
+certification_signature_stamp,Terry Johnson
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,5,Excellent performance under all tested conditions.
+Scalability,3,Acceptable performance; needs better optimization.
+Robustness/Resilience,3,Acceptable performance; needs better optimization.
+Latency,5,Excellent performance under all tested conditions.
+Throughput,4,Good performance with minor improvements suggested.
+Security,5,Excellent performance under all tested conditions.
+Usability/User-Friendliness,3,Acceptable performance; needs better optimization.
+Maintainability,5,Excellent performance under all tested conditions.
+Availability,3,Acceptable performance; needs better optimization.
+Cost,5,Excellent performance under all tested conditions.
+Flexibility/Adaptability,5,Excellent performance under all tested conditions.
+Portability,3,Acceptable performance; needs better optimization.
+Interoperability,3,Acceptable performance; needs better optimization.
+Resource Utilization,4,Good performance with minor improvements suggested.
+Documentation Quality,5,Excellent performance under all tested conditions.

@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-8216
+issued_in,North Deanna
+consigned_from,"Singh, Rangel and Carney
+3354 Allen Mountain Apt. 093
+South Rachel, NV 60916"
+consigned_to,"Clark-Martinez
+0019 Rodriguez Throughway
+Jamesport, NY 22415"
+transport_route,Sea via Andresstad
+official_use,Approved by Trade Dept.
+tariff_item_number,4671
+package_marks_numbers,PKG-128
+package_description,Follow race operation agency.
+origin_criterion,Rule A
+gross_weight_or_quantity,616 kg
+invoice_number_date,INV-81379 dated 2001-05-22
+declaration_country,India
+importing_country,Czech Republic
+declaration_place_date,"Simsburgh, 2019-02-26"
+declaration_signature,Anthony Nolan
+certification_place_date,"Timothybury, 2016-04-20"
+certification_signature_stamp,Matthew Burton DDS
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,3,Acceptable performance; needs better optimization.
+Scalability,3,Acceptable performance; needs better optimization.
+Robustness/Resilience,5,Excellent performance under all tested conditions.
+Latency,4,Good performance with minor improvements suggested.
+Throughput,3,Acceptable performance; needs better optimization.
+Security,5,Excellent performance under all tested conditions.
+Usability/User-Friendliness,3,Acceptable performance; needs better optimization.
+Maintainability,4,Good performance with minor improvements suggested.
+Availability,3,Acceptable performance; needs better optimization.
+Cost,5,Excellent performance under all tested conditions.
+Flexibility/Adaptability,4,Good performance with minor improvements suggested.
+Portability,4,Good performance with minor improvements suggested.
+Interoperability,4,Good performance with minor improvements suggested.
+Resource Utilization,3,Acceptable performance; needs better optimization.
+Documentation Quality,5,Excellent performance under all tested conditions.

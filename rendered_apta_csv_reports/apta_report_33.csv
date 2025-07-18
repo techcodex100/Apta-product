@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-7465
+issued_in,Lake Cheryl
+consigned_from,"Mason, Galvan and Johnson
+22125 Martin Corner Apt. 217
+South Matthewshire, NY 81487"
+consigned_to,"Livingston, Young and Chapman
+951 French Green
+New Aliciamouth, NJ 16564"
+transport_route,Sea via Georgefort
+official_use,Approved by Trade Dept.
+tariff_item_number,6907
+package_marks_numbers,PKG-917
+package_description,Indicate professional hotel everything.
+origin_criterion,Rule B
+gross_weight_or_quantity,1466 kg
+invoice_number_date,INV-78833 dated 1970-01-14
+declaration_country,India
+importing_country,Dominica
+declaration_place_date,"Cassandrabury, 2017-09-29"
+declaration_signature,Debbie Ochoa
+certification_place_date,"New Oscarview, 1971-02-02"
+certification_signature_stamp,Lisa Short
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,4,Good performance with minor improvements suggested.
+Scalability,5,Excellent performance under all tested conditions.
+Robustness/Resilience,4,Good performance with minor improvements suggested.
+Latency,4,Good performance with minor improvements suggested.
+Throughput,4,Good performance with minor improvements suggested.
+Security,3,Acceptable performance; needs better optimization.
+Usability/User-Friendliness,3,Acceptable performance; needs better optimization.
+Maintainability,4,Good performance with minor improvements suggested.
+Availability,4,Good performance with minor improvements suggested.
+Cost,5,Excellent performance under all tested conditions.
+Flexibility/Adaptability,5,Excellent performance under all tested conditions.
+Portability,4,Good performance with minor improvements suggested.
+Interoperability,5,Excellent performance under all tested conditions.
+Resource Utilization,4,Good performance with minor improvements suggested.
+Documentation Quality,5,Excellent performance under all tested conditions.

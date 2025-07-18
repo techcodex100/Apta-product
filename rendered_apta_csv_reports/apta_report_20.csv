@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-7133
+issued_in,Karimouth
+consigned_from,"Russo-Holland
+3545 Thompson Via Suite 964
+North Jonathanport, ME 73959"
+consigned_to,"Riley, Wood and Sharp
+8357 Donald Creek Apt. 446
+West Kevinshire, MT 07914"
+transport_route,Sea via Jonesstad
+official_use,Approved by Trade Dept.
+tariff_item_number,7944
+package_marks_numbers,PKG-468
+package_description,Place today blood until hear and more.
+origin_criterion,Rule A
+gross_weight_or_quantity,795 kg
+invoice_number_date,INV-26978 dated 1999-09-08
+declaration_country,India
+importing_country,Mozambique
+declaration_place_date,"West Amanda, 2010-02-16"
+declaration_signature,Jeffrey Jackson
+certification_place_date,"East Amber, 1998-08-11"
+certification_signature_stamp,Rebecca Smith
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,3,Acceptable performance; needs better optimization.
+Scalability,5,Excellent performance under all tested conditions.
+Robustness/Resilience,3,Acceptable performance; needs better optimization.
+Latency,3,Acceptable performance; needs better optimization.
+Throughput,3,Acceptable performance; needs better optimization.
+Security,3,Acceptable performance; needs better optimization.
+Usability/User-Friendliness,3,Acceptable performance; needs better optimization.
+Maintainability,5,Excellent performance under all tested conditions.
+Availability,4,Good performance with minor improvements suggested.
+Cost,5,Excellent performance under all tested conditions.
+Flexibility/Adaptability,3,Acceptable performance; needs better optimization.
+Portability,5,Excellent performance under all tested conditions.
+Interoperability,3,Acceptable performance; needs better optimization.
+Resource Utilization,5,Excellent performance under all tested conditions.
+Documentation Quality,3,Acceptable performance; needs better optimization.

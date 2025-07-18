@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-8718
+issued_in,Elliotttown
+consigned_from,"Hudson Ltd
+USCGC Obrien
+FPO AE 17133"
+consigned_to,"Wood-Porter
+776 Jeremy Shoals Apt. 325
+West Brianmouth, AR 49313"
+transport_route,Sea via Bishopborough
+official_use,Approved by Trade Dept.
+tariff_item_number,1416
+package_marks_numbers,PKG-108
+package_description,Third real throughout.
+origin_criterion,Rule B
+gross_weight_or_quantity,1962 kg
+invoice_number_date,INV-14948 dated 1978-04-26
+declaration_country,India
+importing_country,United States Minor Outlying Islands
+declaration_place_date,"Lake Christopherport, 1988-03-28"
+declaration_signature,Amy Morse
+certification_place_date,"Port Derrick, 1987-05-10"
+certification_signature_stamp,Kelly Grant
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,4,Good performance with minor improvements suggested.
+Scalability,4,Good performance with minor improvements suggested.
+Robustness/Resilience,4,Good performance with minor improvements suggested.
+Latency,3,Acceptable performance; needs better optimization.
+Throughput,5,Excellent performance under all tested conditions.
+Security,5,Excellent performance under all tested conditions.
+Usability/User-Friendliness,3,Acceptable performance; needs better optimization.
+Maintainability,5,Excellent performance under all tested conditions.
+Availability,3,Acceptable performance; needs better optimization.
+Cost,4,Good performance with minor improvements suggested.
+Flexibility/Adaptability,5,Excellent performance under all tested conditions.
+Portability,5,Excellent performance under all tested conditions.
+Interoperability,5,Excellent performance under all tested conditions.
+Resource Utilization,4,Good performance with minor improvements suggested.
+Documentation Quality,3,Acceptable performance; needs better optimization.

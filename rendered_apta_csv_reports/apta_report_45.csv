@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-2034
+issued_in,West Jeffside
+consigned_from,"Scott, Molina and Swanson
+180 Denise Prairie
+Kyleton, NC 63119"
+consigned_to,"Shaw, Ruiz and Miller
+73451 Nicole Union
+Port Brendafurt, KS 74115"
+transport_route,Sea via Merrittfurt
+official_use,Approved by Trade Dept.
+tariff_item_number,3884
+package_marks_numbers,PKG-678
+package_description,Art in until really.
+origin_criterion,Rule A
+gross_weight_or_quantity,1041 kg
+invoice_number_date,INV-40460 dated 1991-11-29
+declaration_country,India
+importing_country,Cape Verde
+declaration_place_date,"Lake Kari, 2009-02-01"
+declaration_signature,Andrea Martinez
+certification_place_date,"New Miranda, 1998-04-26"
+certification_signature_stamp,Charles Clark
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,4,Good performance with minor improvements suggested.
+Scalability,4,Good performance with minor improvements suggested.
+Robustness/Resilience,4,Good performance with minor improvements suggested.
+Latency,3,Acceptable performance; needs better optimization.
+Throughput,3,Acceptable performance; needs better optimization.
+Security,5,Excellent performance under all tested conditions.
+Usability/User-Friendliness,5,Excellent performance under all tested conditions.
+Maintainability,5,Excellent performance under all tested conditions.
+Availability,5,Excellent performance under all tested conditions.
+Cost,4,Good performance with minor improvements suggested.
+Flexibility/Adaptability,4,Good performance with minor improvements suggested.
+Portability,3,Acceptable performance; needs better optimization.
+Interoperability,5,Excellent performance under all tested conditions.
+Resource Utilization,4,Good performance with minor improvements suggested.
+Documentation Quality,4,Good performance with minor improvements suggested.

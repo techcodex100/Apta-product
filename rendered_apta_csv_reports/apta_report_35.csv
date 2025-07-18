@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-4230
+issued_in,Mackenziefort
+consigned_from,"Taylor, Clark and Martinez
+71734 Richard Parks Apt. 309
+Port Debra, OK 95087"
+consigned_to,"Kelley, Keith and Steele
+60701 Carrie Knolls Suite 541
+Port Cory, PW 45811"
+transport_route,Sea via Silvaberg
+official_use,Approved by Trade Dept.
+tariff_item_number,4145
+package_marks_numbers,PKG-78
+package_description,Once share pretty commercial lay until.
+origin_criterion,Rule A
+gross_weight_or_quantity,821 kg
+invoice_number_date,INV-91139 dated 2012-08-14
+declaration_country,India
+importing_country,Ireland
+declaration_place_date,"Blanchardborough, 1975-11-06"
+declaration_signature,Travis Phillips
+certification_place_date,"Ryanstad, 1991-05-03"
+certification_signature_stamp,Daniel Edwards
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,3,Acceptable performance; needs better optimization.
+Scalability,3,Acceptable performance; needs better optimization.
+Robustness/Resilience,3,Acceptable performance; needs better optimization.
+Latency,3,Acceptable performance; needs better optimization.
+Throughput,3,Acceptable performance; needs better optimization.
+Security,5,Excellent performance under all tested conditions.
+Usability/User-Friendliness,5,Excellent performance under all tested conditions.
+Maintainability,3,Acceptable performance; needs better optimization.
+Availability,3,Acceptable performance; needs better optimization.
+Cost,3,Acceptable performance; needs better optimization.
+Flexibility/Adaptability,4,Good performance with minor improvements suggested.
+Portability,4,Good performance with minor improvements suggested.
+Interoperability,3,Acceptable performance; needs better optimization.
+Resource Utilization,3,Acceptable performance; needs better optimization.
+Documentation Quality,3,Acceptable performance; needs better optimization.

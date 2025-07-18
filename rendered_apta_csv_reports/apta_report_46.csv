@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-4512
+issued_in,Williamstown
+consigned_from,"Brown PLC
+55473 Tammy Green Suite 688
+Elizabethmouth, MD 99057"
+consigned_to,"Beck-Sosa
+92275 Michael Track
+Lake Amberstad, FM 45546"
+transport_route,Sea via East Pennyside
+official_use,Approved by Trade Dept.
+tariff_item_number,7061
+package_marks_numbers,PKG-477
+package_description,Song reach sort late defense.
+origin_criterion,Rule A
+gross_weight_or_quantity,831 kg
+invoice_number_date,INV-43779 dated 1986-10-16
+declaration_country,India
+importing_country,Belgium
+declaration_place_date,"Jamesborough, 1971-03-30"
+declaration_signature,Robert Perez
+certification_place_date,"New Jessicafort, 1976-07-27"
+certification_signature_stamp,Jeffrey Romero
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,4,Good performance with minor improvements suggested.
+Scalability,4,Good performance with minor improvements suggested.
+Robustness/Resilience,3,Acceptable performance; needs better optimization.
+Latency,4,Good performance with minor improvements suggested.
+Throughput,3,Acceptable performance; needs better optimization.
+Security,5,Excellent performance under all tested conditions.
+Usability/User-Friendliness,3,Acceptable performance; needs better optimization.
+Maintainability,4,Good performance with minor improvements suggested.
+Availability,4,Good performance with minor improvements suggested.
+Cost,3,Acceptable performance; needs better optimization.
+Flexibility/Adaptability,5,Excellent performance under all tested conditions.
+Portability,3,Acceptable performance; needs better optimization.
+Interoperability,3,Acceptable performance; needs better optimization.
+Resource Utilization,5,Excellent performance under all tested conditions.
+Documentation Quality,4,Good performance with minor improvements suggested.

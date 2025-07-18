@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-6588
+issued_in,Port Emily
+consigned_from,"Brown-Jacobs
+11310 Jacob Summit Suite 393
+Keithstad, IN 21084"
+consigned_to,"Ward, Snow and Morales
+8734 Rodriguez Tunnel Suite 733
+Christopherchester, VT 23325"
+transport_route,Sea via Travisberg
+official_use,Approved by Trade Dept.
+tariff_item_number,5380
+package_marks_numbers,PKG-143
+package_description,Director student blue authority.
+origin_criterion,Rule A
+gross_weight_or_quantity,974 kg
+invoice_number_date,INV-22348 dated 1983-01-17
+declaration_country,India
+importing_country,Grenada
+declaration_place_date,"Lake Larryhaven, 2023-03-24"
+declaration_signature,Robert Buchanan
+certification_place_date,"Velasquezshire, 1998-08-22"
+certification_signature_stamp,Katie Mccormick
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,4,Good performance with minor improvements suggested.
+Scalability,3,Acceptable performance; needs better optimization.
+Robustness/Resilience,3,Acceptable performance; needs better optimization.
+Latency,5,Excellent performance under all tested conditions.
+Throughput,3,Acceptable performance; needs better optimization.
+Security,4,Good performance with minor improvements suggested.
+Usability/User-Friendliness,4,Good performance with minor improvements suggested.
+Maintainability,4,Good performance with minor improvements suggested.
+Availability,4,Good performance with minor improvements suggested.
+Cost,5,Excellent performance under all tested conditions.
+Flexibility/Adaptability,5,Excellent performance under all tested conditions.
+Portability,5,Excellent performance under all tested conditions.
+Interoperability,3,Acceptable performance; needs better optimization.
+Resource Utilization,3,Acceptable performance; needs better optimization.
+Documentation Quality,5,Excellent performance under all tested conditions.

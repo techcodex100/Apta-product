@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-3190
+issued_in,South Amy
+consigned_from,"Goodwin-Mccarthy
+823 Alexandria Isle Suite 529
+Markfort, UT 70233"
+consigned_to,"Greene-Shaw
+364 Jeffrey Corners Suite 367
+Lake Adrianfurt, HI 75233"
+transport_route,Sea via North Brianside
+official_use,Approved by Trade Dept.
+tariff_item_number,9251
+package_marks_numbers,PKG-645
+package_description,Ten personal appear lot.
+origin_criterion,Rule A
+gross_weight_or_quantity,1615 kg
+invoice_number_date,INV-8092 dated 1975-03-28
+declaration_country,India
+importing_country,Saint Kitts and Nevis
+declaration_place_date,"Jamesshire, 2006-12-18"
+declaration_signature,Richard Obrien
+certification_place_date,"Payneland, 1971-10-13"
+certification_signature_stamp,Matthew Miller
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,5,Excellent performance under all tested conditions.
+Scalability,4,Good performance with minor improvements suggested.
+Robustness/Resilience,5,Excellent performance under all tested conditions.
+Latency,5,Excellent performance under all tested conditions.
+Throughput,4,Good performance with minor improvements suggested.
+Security,5,Excellent performance under all tested conditions.
+Usability/User-Friendliness,3,Acceptable performance; needs better optimization.
+Maintainability,5,Excellent performance under all tested conditions.
+Availability,5,Excellent performance under all tested conditions.
+Cost,3,Acceptable performance; needs better optimization.
+Flexibility/Adaptability,4,Good performance with minor improvements suggested.
+Portability,3,Acceptable performance; needs better optimization.
+Interoperability,3,Acceptable performance; needs better optimization.
+Resource Utilization,4,Good performance with minor improvements suggested.
+Documentation Quality,5,Excellent performance under all tested conditions.

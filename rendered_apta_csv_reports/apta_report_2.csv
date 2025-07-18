@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-4387
+issued_in,West Joseph
+consigned_from,"Weaver, Garcia and Clark
+6930 Mitchell Alley Suite 606
+South James, PA 16371"
+consigned_to,"Wood LLC
+108 Lauren Parkway Apt. 253
+Lake Evelynville, DE 22662"
+transport_route,Sea via West Anthonyside
+official_use,Approved by Trade Dept.
+tariff_item_number,7152
+package_marks_numbers,PKG-61
+package_description,Loss network production.
+origin_criterion,Rule C
+gross_weight_or_quantity,1083 kg
+invoice_number_date,INV-26429 dated 1989-05-27
+declaration_country,India
+importing_country,Niger
+declaration_place_date,"Port Brett, 2007-04-14"
+declaration_signature,Chelsea Wagner
+certification_place_date,"Port Kyle, 2016-11-01"
+certification_signature_stamp,Denise Rogers
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,3,Acceptable performance; needs better optimization.
+Scalability,3,Acceptable performance; needs better optimization.
+Robustness/Resilience,4,Good performance with minor improvements suggested.
+Latency,4,Good performance with minor improvements suggested.
+Throughput,4,Good performance with minor improvements suggested.
+Security,4,Good performance with minor improvements suggested.
+Usability/User-Friendliness,3,Acceptable performance; needs better optimization.
+Maintainability,5,Excellent performance under all tested conditions.
+Availability,3,Acceptable performance; needs better optimization.
+Cost,4,Good performance with minor improvements suggested.
+Flexibility/Adaptability,5,Excellent performance under all tested conditions.
+Portability,4,Good performance with minor improvements suggested.
+Interoperability,3,Acceptable performance; needs better optimization.
+Resource Utilization,4,Good performance with minor improvements suggested.
+Documentation Quality,4,Good performance with minor improvements suggested.

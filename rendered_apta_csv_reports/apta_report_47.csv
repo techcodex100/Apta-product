@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-7221
+issued_in,Davismouth
+consigned_from,"Moody, Russell and Ellison
+4825 Martinez Light
+North Adrienne, VI 53257"
+consigned_to,"Davis-Hawkins
+21947 Torres Heights
+Lake Brittneymouth, ND 86433"
+transport_route,Sea via New Stevenchester
+official_use,Approved by Trade Dept.
+tariff_item_number,5022
+package_marks_numbers,PKG-751
+package_description,Wind huge give wear peace.
+origin_criterion,Rule B
+gross_weight_or_quantity,1668 kg
+invoice_number_date,INV-55084 dated 2024-03-10
+declaration_country,India
+importing_country,French Guiana
+declaration_place_date,"New Rebeccaton, 2019-02-15"
+declaration_signature,Melissa Hale
+certification_place_date,"Amandamouth, 1978-03-21"
+certification_signature_stamp,Bryan Payne
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,3,Acceptable performance; needs better optimization.
+Scalability,4,Good performance with minor improvements suggested.
+Robustness/Resilience,5,Excellent performance under all tested conditions.
+Latency,4,Good performance with minor improvements suggested.
+Throughput,5,Excellent performance under all tested conditions.
+Security,4,Good performance with minor improvements suggested.
+Usability/User-Friendliness,5,Excellent performance under all tested conditions.
+Maintainability,4,Good performance with minor improvements suggested.
+Availability,3,Acceptable performance; needs better optimization.
+Cost,5,Excellent performance under all tested conditions.
+Flexibility/Adaptability,3,Acceptable performance; needs better optimization.
+Portability,4,Good performance with minor improvements suggested.
+Interoperability,5,Excellent performance under all tested conditions.
+Resource Utilization,3,Acceptable performance; needs better optimization.
+Documentation Quality,4,Good performance with minor improvements suggested.

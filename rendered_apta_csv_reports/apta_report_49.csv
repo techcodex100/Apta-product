@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-3833
+issued_in,Jacobberg
+consigned_from,"Gordon Ltd
+6715 Smith Club Suite 009
+Robbinsside, MO 04615"
+consigned_to,"Robertson, Thomas and Fitzgerald
+56796 Catherine Via
+East Ryan, AS 20893"
+transport_route,Sea via Hortonside
+official_use,Approved by Trade Dept.
+tariff_item_number,632
+package_marks_numbers,PKG-153
+package_description,Effort five poor herself.
+origin_criterion,Rule B
+gross_weight_or_quantity,1420 kg
+invoice_number_date,INV-80519 dated 1973-04-02
+declaration_country,India
+importing_country,Saint Lucia
+declaration_place_date,"West Jeffreyside, 1982-12-24"
+declaration_signature,Tara Goodwin
+certification_place_date,"Victoriafort, 2002-12-24"
+certification_signature_stamp,Kimberly Smith
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,4,Good performance with minor improvements suggested.
+Scalability,3,Acceptable performance; needs better optimization.
+Robustness/Resilience,3,Acceptable performance; needs better optimization.
+Latency,5,Excellent performance under all tested conditions.
+Throughput,3,Acceptable performance; needs better optimization.
+Security,4,Good performance with minor improvements suggested.
+Usability/User-Friendliness,3,Acceptable performance; needs better optimization.
+Maintainability,4,Good performance with minor improvements suggested.
+Availability,5,Excellent performance under all tested conditions.
+Cost,5,Excellent performance under all tested conditions.
+Flexibility/Adaptability,3,Acceptable performance; needs better optimization.
+Portability,3,Acceptable performance; needs better optimization.
+Interoperability,5,Excellent performance under all tested conditions.
+Resource Utilization,4,Good performance with minor improvements suggested.
+Documentation Quality,3,Acceptable performance; needs better optimization.

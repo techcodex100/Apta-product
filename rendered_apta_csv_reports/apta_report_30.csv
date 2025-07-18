@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-6541
+issued_in,Michelleview
+consigned_from,"Santana-Farmer
+USS Martin
+FPO AA 50523"
+consigned_to,"Miller-Dyer
+631 Estrada Bridge
+Lesterfurt, NC 53723"
+transport_route,Sea via Johnsonside
+official_use,Approved by Trade Dept.
+tariff_item_number,9877
+package_marks_numbers,PKG-557
+package_description,Individual capital quickly.
+origin_criterion,Rule C
+gross_weight_or_quantity,973 kg
+invoice_number_date,INV-59354 dated 1992-06-05
+declaration_country,India
+importing_country,Saint Vincent and the Grenadines
+declaration_place_date,"Byrdbury, 1989-06-10"
+declaration_signature,David Collins
+certification_place_date,"Port Mark, 2010-10-29"
+certification_signature_stamp,Johnny Collins
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,3,Acceptable performance; needs better optimization.
+Scalability,4,Good performance with minor improvements suggested.
+Robustness/Resilience,5,Excellent performance under all tested conditions.
+Latency,4,Good performance with minor improvements suggested.
+Throughput,4,Good performance with minor improvements suggested.
+Security,5,Excellent performance under all tested conditions.
+Usability/User-Friendliness,5,Excellent performance under all tested conditions.
+Maintainability,4,Good performance with minor improvements suggested.
+Availability,3,Acceptable performance; needs better optimization.
+Cost,3,Acceptable performance; needs better optimization.
+Flexibility/Adaptability,4,Good performance with minor improvements suggested.
+Portability,3,Acceptable performance; needs better optimization.
+Interoperability,4,Good performance with minor improvements suggested.
+Resource Utilization,5,Excellent performance under all tested conditions.
+Documentation Quality,4,Good performance with minor improvements suggested.

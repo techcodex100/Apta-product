@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-2941
+issued_in,South Roberto
+consigned_from,"Robinson PLC
+53419 Savannah Trafficway Suite 515
+Diaztown, MS 66087"
+consigned_to,"Young, Rhodes and Sanchez
+49465 Bartlett Drives Suite 861
+East Robertburgh, LA 24382"
+transport_route,Sea via New Suzannestad
+official_use,Approved by Trade Dept.
+tariff_item_number,4826
+package_marks_numbers,PKG-214
+package_description,Activity remain capital wear finish.
+origin_criterion,Rule B
+gross_weight_or_quantity,1195 kg
+invoice_number_date,INV-71282 dated 1973-12-14
+declaration_country,India
+importing_country,Spain
+declaration_place_date,"Port George, 1982-09-16"
+declaration_signature,Larry Anderson
+certification_place_date,"Lake Derek, 1978-10-04"
+certification_signature_stamp,Tammy Scott
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,3,Acceptable performance; needs better optimization.
+Scalability,3,Acceptable performance; needs better optimization.
+Robustness/Resilience,4,Good performance with minor improvements suggested.
+Latency,3,Acceptable performance; needs better optimization.
+Throughput,5,Excellent performance under all tested conditions.
+Security,4,Good performance with minor improvements suggested.
+Usability/User-Friendliness,3,Acceptable performance; needs better optimization.
+Maintainability,5,Excellent performance under all tested conditions.
+Availability,5,Excellent performance under all tested conditions.
+Cost,4,Good performance with minor improvements suggested.
+Flexibility/Adaptability,5,Excellent performance under all tested conditions.
+Portability,4,Good performance with minor improvements suggested.
+Interoperability,5,Excellent performance under all tested conditions.
+Resource Utilization,4,Good performance with minor improvements suggested.
+Documentation Quality,5,Excellent performance under all tested conditions.

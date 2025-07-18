@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-1
+issued_in,Port Laura
+consigned_from,"Mcknight, Smith and Horton
+97324 Ross Highway Suite 454
+South Meganland, SD 22367"
+consigned_to,"Burns, Baker and Morales
+99236 Jensen Forest
+New Angelaside, FL 09813"
+transport_route,Sea via Robertberg
+official_use,Approved by Trade Dept.
+tariff_item_number,17
+package_marks_numbers,PKG-704
+package_description,Last word high whatever grow.
+origin_criterion,Rule C
+gross_weight_or_quantity,508 kg
+invoice_number_date,INV-63845 dated 2003-05-22
+declaration_country,India
+importing_country,Slovakia (Slovak Republic)
+declaration_place_date,"Sweeneytown, 2010-10-06"
+declaration_signature,Amanda Li
+certification_place_date,"Lake Jeanne, 1972-07-10"
+certification_signature_stamp,Nicole Gibbs
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,4,Good performance with minor improvements suggested.
+Scalability,5,Excellent performance under all tested conditions.
+Robustness/Resilience,3,Acceptable performance; needs better optimization.
+Latency,5,Excellent performance under all tested conditions.
+Throughput,5,Excellent performance under all tested conditions.
+Security,5,Excellent performance under all tested conditions.
+Usability/User-Friendliness,4,Good performance with minor improvements suggested.
+Maintainability,5,Excellent performance under all tested conditions.
+Availability,3,Acceptable performance; needs better optimization.
+Cost,3,Acceptable performance; needs better optimization.
+Flexibility/Adaptability,3,Acceptable performance; needs better optimization.
+Portability,5,Excellent performance under all tested conditions.
+Interoperability,4,Good performance with minor improvements suggested.
+Resource Utilization,5,Excellent performance under all tested conditions.
+Documentation Quality,4,Good performance with minor improvements suggested.

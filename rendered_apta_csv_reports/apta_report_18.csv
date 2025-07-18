@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-1402
+issued_in,North Maria
+consigned_from,"Green, Simpson and Tucker
+3034 Wendy Summit
+Lake Elizabeth, VT 59234"
+consigned_to,"Smith, Nguyen and Foster
+704 Castro Branch Apt. 415
+Wendyberg, MN 77730"
+transport_route,Sea via Mckinneybury
+official_use,Approved by Trade Dept.
+tariff_item_number,9186
+package_marks_numbers,PKG-783
+package_description,Listen consumer but market year dark.
+origin_criterion,Rule C
+gross_weight_or_quantity,1587 kg
+invoice_number_date,INV-14782 dated 2011-10-02
+declaration_country,India
+importing_country,Estonia
+declaration_place_date,"New Dan, 1977-02-14"
+declaration_signature,Wesley Johnson
+certification_place_date,"Andersonborough, 2000-06-20"
+certification_signature_stamp,Shannon Jensen
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,5,Excellent performance under all tested conditions.
+Scalability,4,Good performance with minor improvements suggested.
+Robustness/Resilience,3,Acceptable performance; needs better optimization.
+Latency,5,Excellent performance under all tested conditions.
+Throughput,3,Acceptable performance; needs better optimization.
+Security,3,Acceptable performance; needs better optimization.
+Usability/User-Friendliness,3,Acceptable performance; needs better optimization.
+Maintainability,4,Good performance with minor improvements suggested.
+Availability,4,Good performance with minor improvements suggested.
+Cost,3,Acceptable performance; needs better optimization.
+Flexibility/Adaptability,5,Excellent performance under all tested conditions.
+Portability,3,Acceptable performance; needs better optimization.
+Interoperability,4,Good performance with minor improvements suggested.
+Resource Utilization,3,Acceptable performance; needs better optimization.
+Documentation Quality,5,Excellent performance under all tested conditions.

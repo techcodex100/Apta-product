@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-3463
+issued_in,South Adam
+consigned_from,"Jackson-Bates
+9732 Amanda Gardens Suite 999
+East Stephen, NC 81207"
+consigned_to,"Blevins-Evans
+332 Kendra Underpass
+West Kevin, WA 60030"
+transport_route,Sea via Port Michael
+official_use,Approved by Trade Dept.
+tariff_item_number,2869
+package_marks_numbers,PKG-88
+package_description,Concern current art door fight in.
+origin_criterion,Rule A
+gross_weight_or_quantity,714 kg
+invoice_number_date,INV-16457 dated 2016-02-04
+declaration_country,India
+importing_country,Solomon Islands
+declaration_place_date,"Port Erikastad, 1973-05-10"
+declaration_signature,Todd Alvarado
+certification_place_date,"Port Hollyfort, 2016-07-30"
+certification_signature_stamp,Alice Nguyen
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,5,Excellent performance under all tested conditions.
+Scalability,4,Good performance with minor improvements suggested.
+Robustness/Resilience,4,Good performance with minor improvements suggested.
+Latency,4,Good performance with minor improvements suggested.
+Throughput,3,Acceptable performance; needs better optimization.
+Security,4,Good performance with minor improvements suggested.
+Usability/User-Friendliness,3,Acceptable performance; needs better optimization.
+Maintainability,4,Good performance with minor improvements suggested.
+Availability,3,Acceptable performance; needs better optimization.
+Cost,5,Excellent performance under all tested conditions.
+Flexibility/Adaptability,3,Acceptable performance; needs better optimization.
+Portability,4,Good performance with minor improvements suggested.
+Interoperability,3,Acceptable performance; needs better optimization.
+Resource Utilization,3,Acceptable performance; needs better optimization.
+Documentation Quality,3,Acceptable performance; needs better optimization.

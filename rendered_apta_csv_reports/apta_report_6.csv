@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-4543
+issued_in,Shepardfort
+consigned_from,"Chambers Inc
+59227 Steven Ramp
+Mooreberg, TN 51146"
+consigned_to,"Jones Ltd
+20701 Lonnie Isle
+New Karatown, RI 72250"
+transport_route,Sea via East Joy
+official_use,Approved by Trade Dept.
+tariff_item_number,5476
+package_marks_numbers,PKG-371
+package_description,Might involve single ability case.
+origin_criterion,Rule C
+gross_weight_or_quantity,1803 kg
+invoice_number_date,INV-91990 dated 2003-10-30
+declaration_country,India
+importing_country,Niger
+declaration_place_date,"North Steven, 2001-08-22"
+declaration_signature,Shawn Moran
+certification_place_date,"Tabithaborough, 2003-06-30"
+certification_signature_stamp,Manuel Roth
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,3,Acceptable performance; needs better optimization.
+Scalability,4,Good performance with minor improvements suggested.
+Robustness/Resilience,3,Acceptable performance; needs better optimization.
+Latency,4,Good performance with minor improvements suggested.
+Throughput,3,Acceptable performance; needs better optimization.
+Security,4,Good performance with minor improvements suggested.
+Usability/User-Friendliness,4,Good performance with minor improvements suggested.
+Maintainability,3,Acceptable performance; needs better optimization.
+Availability,5,Excellent performance under all tested conditions.
+Cost,4,Good performance with minor improvements suggested.
+Flexibility/Adaptability,3,Acceptable performance; needs better optimization.
+Portability,3,Acceptable performance; needs better optimization.
+Interoperability,4,Good performance with minor improvements suggested.
+Resource Utilization,4,Good performance with minor improvements suggested.
+Documentation Quality,4,Good performance with minor improvements suggested.

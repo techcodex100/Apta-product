@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-8215
+issued_in,West Bradley
+consigned_from,"Ortiz-Cameron
+2083 Donald Springs Apt. 473
+South Philip, DC 27737"
+consigned_to,"Drake-Murphy
+5242 Kenneth Springs
+Gregoryport, WA 74344"
+transport_route,Sea via West Kristimouth
+official_use,Approved by Trade Dept.
+tariff_item_number,7088
+package_marks_numbers,PKG-423
+package_description,Product factor gun. Ready range front.
+origin_criterion,Rule A
+gross_weight_or_quantity,802 kg
+invoice_number_date,INV-86598 dated 2015-09-27
+declaration_country,India
+importing_country,Ethiopia
+declaration_place_date,"Tinachester, 2002-12-10"
+declaration_signature,Meghan Andersen
+certification_place_date,"North Melanie, 1991-06-11"
+certification_signature_stamp,Alexander King
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,4,Good performance with minor improvements suggested.
+Scalability,5,Excellent performance under all tested conditions.
+Robustness/Resilience,4,Good performance with minor improvements suggested.
+Latency,5,Excellent performance under all tested conditions.
+Throughput,4,Good performance with minor improvements suggested.
+Security,3,Acceptable performance; needs better optimization.
+Usability/User-Friendliness,4,Good performance with minor improvements suggested.
+Maintainability,3,Acceptable performance; needs better optimization.
+Availability,3,Acceptable performance; needs better optimization.
+Cost,5,Excellent performance under all tested conditions.
+Flexibility/Adaptability,5,Excellent performance under all tested conditions.
+Portability,4,Good performance with minor improvements suggested.
+Interoperability,5,Excellent performance under all tested conditions.
+Resource Utilization,5,Excellent performance under all tested conditions.
+Documentation Quality,4,Good performance with minor improvements suggested.

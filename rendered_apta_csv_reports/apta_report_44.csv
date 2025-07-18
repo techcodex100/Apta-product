@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-3640
+issued_in,Ericstad
+consigned_from,"Villarreal-Vincent
+9347 Gregory Passage
+Whitneyville, VA 69895"
+consigned_to,"Potts-Richardson
+58329 Amanda Summit
+South Antonioport, IA 82855"
+transport_route,Sea via Jessicahaven
+official_use,Approved by Trade Dept.
+tariff_item_number,9527
+package_marks_numbers,PKG-735
+package_description,Success this enjoy.
+origin_criterion,Rule C
+gross_weight_or_quantity,1668 kg
+invoice_number_date,INV-16064 dated 2008-01-25
+declaration_country,India
+importing_country,Aruba
+declaration_place_date,"Rhodesberg, 2006-01-31"
+declaration_signature,Kaitlyn Edwards
+certification_place_date,"East Jeffery, 1977-09-03"
+certification_signature_stamp,Denise Mcclure
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,3,Acceptable performance; needs better optimization.
+Scalability,3,Acceptable performance; needs better optimization.
+Robustness/Resilience,5,Excellent performance under all tested conditions.
+Latency,5,Excellent performance under all tested conditions.
+Throughput,4,Good performance with minor improvements suggested.
+Security,3,Acceptable performance; needs better optimization.
+Usability/User-Friendliness,4,Good performance with minor improvements suggested.
+Maintainability,4,Good performance with minor improvements suggested.
+Availability,5,Excellent performance under all tested conditions.
+Cost,4,Good performance with minor improvements suggested.
+Flexibility/Adaptability,5,Excellent performance under all tested conditions.
+Portability,5,Excellent performance under all tested conditions.
+Interoperability,5,Excellent performance under all tested conditions.
+Resource Utilization,3,Acceptable performance; needs better optimization.
+Documentation Quality,3,Acceptable performance; needs better optimization.

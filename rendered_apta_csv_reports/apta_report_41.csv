@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-2140
+issued_in,East Edward
+consigned_from,"Mccormick-Osborn
+41365 Soto Stravenue Suite 804
+West Kerrichester, KY 42375"
+consigned_to,"Moore, Sanders and Ruiz
+5280 Smith Mill Apt. 703
+Perkinsmouth, NM 18755"
+transport_route,Sea via Charlestown
+official_use,Approved by Trade Dept.
+tariff_item_number,3330
+package_marks_numbers,PKG-411
+package_description,Field often find current.
+origin_criterion,Rule B
+gross_weight_or_quantity,741 kg
+invoice_number_date,INV-86067 dated 1997-07-10
+declaration_country,India
+importing_country,Finland
+declaration_place_date,"Jacksonview, 1988-02-18"
+declaration_signature,Ryan Rose
+certification_place_date,"Sabrinashire, 2025-05-11"
+certification_signature_stamp,Carla Taylor
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,4,Good performance with minor improvements suggested.
+Scalability,3,Acceptable performance; needs better optimization.
+Robustness/Resilience,5,Excellent performance under all tested conditions.
+Latency,3,Acceptable performance; needs better optimization.
+Throughput,4,Good performance with minor improvements suggested.
+Security,5,Excellent performance under all tested conditions.
+Usability/User-Friendliness,3,Acceptable performance; needs better optimization.
+Maintainability,4,Good performance with minor improvements suggested.
+Availability,4,Good performance with minor improvements suggested.
+Cost,4,Good performance with minor improvements suggested.
+Flexibility/Adaptability,4,Good performance with minor improvements suggested.
+Portability,4,Good performance with minor improvements suggested.
+Interoperability,4,Good performance with minor improvements suggested.
+Resource Utilization,3,Acceptable performance; needs better optimization.
+Documentation Quality,3,Acceptable performance; needs better optimization.

@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-7731
+issued_in,Port Royland
+consigned_from,"Harrison-Perez
+PSC 1967, Box 0444
+APO AE 49273"
+consigned_to,"Barker LLC
+466 Malik Meadow Apt. 197
+Nicolebury, VI 06139"
+transport_route,Sea via Delgadoton
+official_use,Approved by Trade Dept.
+tariff_item_number,6431
+package_marks_numbers,PKG-741
+package_description,The your area ten unit.
+origin_criterion,Rule A
+gross_weight_or_quantity,1600 kg
+invoice_number_date,INV-94116 dated 2010-06-10
+declaration_country,India
+importing_country,Rwanda
+declaration_place_date,"Garciafurt, 1972-11-08"
+declaration_signature,Jodi Pratt
+certification_place_date,"Perezside, 2008-01-04"
+certification_signature_stamp,Cassie Garcia
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,3,Acceptable performance; needs better optimization.
+Scalability,4,Good performance with minor improvements suggested.
+Robustness/Resilience,3,Acceptable performance; needs better optimization.
+Latency,4,Good performance with minor improvements suggested.
+Throughput,5,Excellent performance under all tested conditions.
+Security,3,Acceptable performance; needs better optimization.
+Usability/User-Friendliness,4,Good performance with minor improvements suggested.
+Maintainability,3,Acceptable performance; needs better optimization.
+Availability,4,Good performance with minor improvements suggested.
+Cost,3,Acceptable performance; needs better optimization.
+Flexibility/Adaptability,4,Good performance with minor improvements suggested.
+Portability,5,Excellent performance under all tested conditions.
+Interoperability,4,Good performance with minor improvements suggested.
+Resource Utilization,4,Good performance with minor improvements suggested.
+Documentation Quality,5,Excellent performance under all tested conditions.

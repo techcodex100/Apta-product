@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-3557
+issued_in,New Michellemouth
+consigned_from,"Reeves, Robinson and Wheeler
+844 Murphy Squares Apt. 065
+Port Kristin, NM 34846"
+consigned_to,"Larson, Nguyen and Simpson
+94537 Campbell Summit Apt. 073
+Lake Jacobtown, MA 68365"
+transport_route,Sea via Georgefort
+official_use,Approved by Trade Dept.
+tariff_item_number,9375
+package_marks_numbers,PKG-497
+package_description,Plant hear face sell tell appear.
+origin_criterion,Rule B
+gross_weight_or_quantity,1467 kg
+invoice_number_date,INV-95602 dated 2006-09-19
+declaration_country,India
+importing_country,Bangladesh
+declaration_place_date,"Richardshire, 2016-06-08"
+declaration_signature,Andrew Scott
+certification_place_date,"Woodsshire, 2006-12-07"
+certification_signature_stamp,Eugene Smith
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,4,Good performance with minor improvements suggested.
+Scalability,5,Excellent performance under all tested conditions.
+Robustness/Resilience,4,Good performance with minor improvements suggested.
+Latency,4,Good performance with minor improvements suggested.
+Throughput,3,Acceptable performance; needs better optimization.
+Security,3,Acceptable performance; needs better optimization.
+Usability/User-Friendliness,3,Acceptable performance; needs better optimization.
+Maintainability,4,Good performance with minor improvements suggested.
+Availability,3,Acceptable performance; needs better optimization.
+Cost,5,Excellent performance under all tested conditions.
+Flexibility/Adaptability,3,Acceptable performance; needs better optimization.
+Portability,3,Acceptable performance; needs better optimization.
+Interoperability,3,Acceptable performance; needs better optimization.
+Resource Utilization,3,Acceptable performance; needs better optimization.
+Documentation Quality,3,Acceptable performance; needs better optimization.

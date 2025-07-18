@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-4273
+issued_in,Lake Raymond
+consigned_from,"Bonilla Inc
+819 Miller Ville
+Mcdanielstad, MO 05435"
+consigned_to,"Wade, Valdez and Sawyer
+683 Sean Points
+South Johnny, MD 37007"
+transport_route,Sea via Sullivanmouth
+official_use,Approved by Trade Dept.
+tariff_item_number,6637
+package_marks_numbers,PKG-495
+package_description,Watch will contain.
+origin_criterion,Rule A
+gross_weight_or_quantity,589 kg
+invoice_number_date,INV-43668 dated 1996-01-26
+declaration_country,India
+importing_country,Nigeria
+declaration_place_date,"North Ian, 2010-05-06"
+declaration_signature,Valerie Carrillo
+certification_place_date,"Douglastown, 1992-04-16"
+certification_signature_stamp,Timothy Smith
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,5,Excellent performance under all tested conditions.
+Scalability,3,Acceptable performance; needs better optimization.
+Robustness/Resilience,5,Excellent performance under all tested conditions.
+Latency,5,Excellent performance under all tested conditions.
+Throughput,4,Good performance with minor improvements suggested.
+Security,4,Good performance with minor improvements suggested.
+Usability/User-Friendliness,3,Acceptable performance; needs better optimization.
+Maintainability,3,Acceptable performance; needs better optimization.
+Availability,4,Good performance with minor improvements suggested.
+Cost,3,Acceptable performance; needs better optimization.
+Flexibility/Adaptability,3,Acceptable performance; needs better optimization.
+Portability,3,Acceptable performance; needs better optimization.
+Interoperability,4,Good performance with minor improvements suggested.
+Resource Utilization,3,Acceptable performance; needs better optimization.
+Documentation Quality,3,Acceptable performance; needs better optimization.

@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-675
+issued_in,Markburgh
+consigned_from,"Collins, Collins and Santiago
+7863 Elliott Rest Suite 034
+Lake Monicahaven, NM 08757"
+consigned_to,"Johnson and Sons
+5233 Brenda Views Apt. 329
+North Elizabeth, AZ 30883"
+transport_route,Sea via Lake Chelseaburgh
+official_use,Approved by Trade Dept.
+tariff_item_number,257
+package_marks_numbers,PKG-97
+package_description,Reality far collection sea soon.
+origin_criterion,Rule A
+gross_weight_or_quantity,1206 kg
+invoice_number_date,INV-20483 dated 1977-09-12
+declaration_country,India
+importing_country,Cyprus
+declaration_place_date,"Suttonmouth, 2020-03-07"
+declaration_signature,Ryan Huang
+certification_place_date,"South Robert, 2024-01-06"
+certification_signature_stamp,Angel Fox
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,4,Good performance with minor improvements suggested.
+Scalability,5,Excellent performance under all tested conditions.
+Robustness/Resilience,5,Excellent performance under all tested conditions.
+Latency,3,Acceptable performance; needs better optimization.
+Throughput,3,Acceptable performance; needs better optimization.
+Security,4,Good performance with minor improvements suggested.
+Usability/User-Friendliness,4,Good performance with minor improvements suggested.
+Maintainability,3,Acceptable performance; needs better optimization.
+Availability,4,Good performance with minor improvements suggested.
+Cost,4,Good performance with minor improvements suggested.
+Flexibility/Adaptability,3,Acceptable performance; needs better optimization.
+Portability,4,Good performance with minor improvements suggested.
+Interoperability,3,Acceptable performance; needs better optimization.
+Resource Utilization,3,Acceptable performance; needs better optimization.
+Documentation Quality,3,Acceptable performance; needs better optimization.

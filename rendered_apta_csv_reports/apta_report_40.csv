@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-6431
+issued_in,East Johnnyside
+consigned_from,"Sanders, Ho and Graves
+8330 Murphy Burg
+Victorberg, IL 49623"
+consigned_to,"Cook and Sons
+97391 Harding Forks
+Lake Jimmy, WV 12835"
+transport_route,Sea via New Nicole
+official_use,Approved by Trade Dept.
+tariff_item_number,8502
+package_marks_numbers,PKG-933
+package_description,My right continue itself some machine.
+origin_criterion,Rule C
+gross_weight_or_quantity,866 kg
+invoice_number_date,INV-87705 dated 1983-01-07
+declaration_country,India
+importing_country,Eritrea
+declaration_place_date,"Johnsonhaven, 2002-11-10"
+declaration_signature,John Bond
+certification_place_date,"Kathleenbury, 1992-08-13"
+certification_signature_stamp,Kelsey Odom
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,4,Good performance with minor improvements suggested.
+Scalability,4,Good performance with minor improvements suggested.
+Robustness/Resilience,5,Excellent performance under all tested conditions.
+Latency,5,Excellent performance under all tested conditions.
+Throughput,4,Good performance with minor improvements suggested.
+Security,5,Excellent performance under all tested conditions.
+Usability/User-Friendliness,4,Good performance with minor improvements suggested.
+Maintainability,4,Good performance with minor improvements suggested.
+Availability,3,Acceptable performance; needs better optimization.
+Cost,3,Acceptable performance; needs better optimization.
+Flexibility/Adaptability,3,Acceptable performance; needs better optimization.
+Portability,5,Excellent performance under all tested conditions.
+Interoperability,3,Acceptable performance; needs better optimization.
+Resource Utilization,5,Excellent performance under all tested conditions.
+Documentation Quality,5,Excellent performance under all tested conditions.

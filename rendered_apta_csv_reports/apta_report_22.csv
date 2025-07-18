@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-2430
+issued_in,South Troyview
+consigned_from,"Hernandez, Brown and Harris
+3656 Phillips Wall
+North Paulaville, SD 76862"
+consigned_to,"Knight-Foster
+4418 Robert Terrace Suite 338
+South Elizabethland, PA 23962"
+transport_route,Sea via New Ashley
+official_use,Approved by Trade Dept.
+tariff_item_number,8087
+package_marks_numbers,PKG-200
+package_description,Idea full building read.
+origin_criterion,Rule A
+gross_weight_or_quantity,1795 kg
+invoice_number_date,INV-72112 dated 1978-09-28
+declaration_country,India
+importing_country,Iceland
+declaration_place_date,"Port Sabrina, 2019-04-14"
+declaration_signature,Katie Walls
+certification_place_date,"Juanberg, 2007-06-05"
+certification_signature_stamp,Rebecca Thompson
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,4,Good performance with minor improvements suggested.
+Scalability,5,Excellent performance under all tested conditions.
+Robustness/Resilience,5,Excellent performance under all tested conditions.
+Latency,5,Excellent performance under all tested conditions.
+Throughput,5,Excellent performance under all tested conditions.
+Security,5,Excellent performance under all tested conditions.
+Usability/User-Friendliness,5,Excellent performance under all tested conditions.
+Maintainability,5,Excellent performance under all tested conditions.
+Availability,5,Excellent performance under all tested conditions.
+Cost,3,Acceptable performance; needs better optimization.
+Flexibility/Adaptability,4,Good performance with minor improvements suggested.
+Portability,4,Good performance with minor improvements suggested.
+Interoperability,4,Good performance with minor improvements suggested.
+Resource Utilization,5,Excellent performance under all tested conditions.
+Documentation Quality,5,Excellent performance under all tested conditions.

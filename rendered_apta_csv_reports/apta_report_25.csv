@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-5658
+issued_in,Melissachester
+consigned_from,"Peterson Group
+010 Stephen Spur Apt. 184
+Port Andrea, RI 23509"
+consigned_to,"Jordan, Wolf and Wood
+5483 Cynthia Squares Suite 543
+Hughesmouth, RI 42147"
+transport_route,Sea via Lake Matthew
+official_use,Approved by Trade Dept.
+tariff_item_number,3657
+package_marks_numbers,PKG-937
+package_description,Tree be know bill east successful.
+origin_criterion,Rule A
+gross_weight_or_quantity,1547 kg
+invoice_number_date,INV-41734 dated 1991-07-30
+declaration_country,India
+importing_country,American Samoa
+declaration_place_date,"East Steven, 1998-12-20"
+declaration_signature,Sierra Haynes
+certification_place_date,"Donaldstad, 2023-01-16"
+certification_signature_stamp,Charles Ray
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,5,Excellent performance under all tested conditions.
+Scalability,3,Acceptable performance; needs better optimization.
+Robustness/Resilience,3,Acceptable performance; needs better optimization.
+Latency,4,Good performance with minor improvements suggested.
+Throughput,5,Excellent performance under all tested conditions.
+Security,5,Excellent performance under all tested conditions.
+Usability/User-Friendliness,4,Good performance with minor improvements suggested.
+Maintainability,5,Excellent performance under all tested conditions.
+Availability,5,Excellent performance under all tested conditions.
+Cost,5,Excellent performance under all tested conditions.
+Flexibility/Adaptability,4,Good performance with minor improvements suggested.
+Portability,5,Excellent performance under all tested conditions.
+Interoperability,4,Good performance with minor improvements suggested.
+Resource Utilization,3,Acceptable performance; needs better optimization.
+Documentation Quality,5,Excellent performance under all tested conditions.

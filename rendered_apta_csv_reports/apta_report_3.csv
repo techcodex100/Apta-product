@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-5640
+issued_in,North Alanhaven
+consigned_from,"Evans PLC
+30726 Carter Valley Apt. 452
+Williambury, MH 20806"
+consigned_to,"Kelly LLC
+4736 Angela Drives Suite 638
+Jonesburgh, IL 57532"
+transport_route,Sea via Lisahaven
+official_use,Approved by Trade Dept.
+tariff_item_number,3634
+package_marks_numbers,PKG-268
+package_description,Eye two blood individual year money.
+origin_criterion,Rule B
+gross_weight_or_quantity,1655 kg
+invoice_number_date,INV-62577 dated 1990-01-23
+declaration_country,India
+importing_country,Moldova
+declaration_place_date,"Lake Megan, 2014-02-14"
+declaration_signature,Edward Avery
+certification_place_date,"West Laurieview, 2000-10-10"
+certification_signature_stamp,Patricia Mays
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,5,Excellent performance under all tested conditions.
+Scalability,4,Good performance with minor improvements suggested.
+Robustness/Resilience,4,Good performance with minor improvements suggested.
+Latency,5,Excellent performance under all tested conditions.
+Throughput,5,Excellent performance under all tested conditions.
+Security,5,Excellent performance under all tested conditions.
+Usability/User-Friendliness,4,Good performance with minor improvements suggested.
+Maintainability,3,Acceptable performance; needs better optimization.
+Availability,5,Excellent performance under all tested conditions.
+Cost,3,Acceptable performance; needs better optimization.
+Flexibility/Adaptability,5,Excellent performance under all tested conditions.
+Portability,5,Excellent performance under all tested conditions.
+Interoperability,5,Excellent performance under all tested conditions.
+Resource Utilization,4,Good performance with minor improvements suggested.
+Documentation Quality,4,Good performance with minor improvements suggested.

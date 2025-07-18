@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-1323
+issued_in,Lake Sandramouth
+consigned_from,"Scott Group
+PSC 2404, Box 2501
+APO AP 70888"
+consigned_to,"Morris-Sullivan
+Unit 1478 Box 7267
+DPO AA 28210"
+transport_route,Sea via Port Juliaberg
+official_use,Approved by Trade Dept.
+tariff_item_number,3607
+package_marks_numbers,PKG-113
+package_description,Condition trial clearly.
+origin_criterion,Rule A
+gross_weight_or_quantity,877 kg
+invoice_number_date,INV-13497 dated 1983-06-08
+declaration_country,India
+importing_country,Jordan
+declaration_place_date,"Port Jenniferport, 2020-11-12"
+declaration_signature,Richard Reyes
+certification_place_date,"East Paigestad, 1982-09-02"
+certification_signature_stamp,Laura Thomas
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,3,Acceptable performance; needs better optimization.
+Scalability,5,Excellent performance under all tested conditions.
+Robustness/Resilience,3,Acceptable performance; needs better optimization.
+Latency,3,Acceptable performance; needs better optimization.
+Throughput,4,Good performance with minor improvements suggested.
+Security,3,Acceptable performance; needs better optimization.
+Usability/User-Friendliness,3,Acceptable performance; needs better optimization.
+Maintainability,4,Good performance with minor improvements suggested.
+Availability,5,Excellent performance under all tested conditions.
+Cost,4,Good performance with minor improvements suggested.
+Flexibility/Adaptability,4,Good performance with minor improvements suggested.
+Portability,3,Acceptable performance; needs better optimization.
+Interoperability,5,Excellent performance under all tested conditions.
+Resource Utilization,5,Excellent performance under all tested conditions.
+Documentation Quality,5,Excellent performance under all tested conditions.

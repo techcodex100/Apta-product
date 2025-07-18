@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-6277
+issued_in,Phillipstad
+consigned_from,"Griffith, Li and Reid
+02654 Johnson Parkways
+Davidview, ID 87349"
+consigned_to,"Perry, Stephenson and Lynch
+8355 Palmer Street
+North Craig, AZ 09211"
+transport_route,Sea via Williamburgh
+official_use,Approved by Trade Dept.
+tariff_item_number,5794
+package_marks_numbers,PKG-527
+package_description,Event mouth with specific.
+origin_criterion,Rule B
+gross_weight_or_quantity,1596 kg
+invoice_number_date,INV-58565 dated 2019-12-11
+declaration_country,India
+importing_country,Falkland Islands (Malvinas)
+declaration_place_date,"North Brendan, 2008-01-07"
+declaration_signature,Amanda Maxwell
+certification_place_date,"West Ashley, 2019-01-11"
+certification_signature_stamp,Michelle Cowan
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,5,Excellent performance under all tested conditions.
+Scalability,4,Good performance with minor improvements suggested.
+Robustness/Resilience,3,Acceptable performance; needs better optimization.
+Latency,3,Acceptable performance; needs better optimization.
+Throughput,4,Good performance with minor improvements suggested.
+Security,5,Excellent performance under all tested conditions.
+Usability/User-Friendliness,3,Acceptable performance; needs better optimization.
+Maintainability,3,Acceptable performance; needs better optimization.
+Availability,4,Good performance with minor improvements suggested.
+Cost,5,Excellent performance under all tested conditions.
+Flexibility/Adaptability,3,Acceptable performance; needs better optimization.
+Portability,4,Good performance with minor improvements suggested.
+Interoperability,5,Excellent performance under all tested conditions.
+Resource Utilization,3,Acceptable performance; needs better optimization.
+Documentation Quality,4,Good performance with minor improvements suggested.

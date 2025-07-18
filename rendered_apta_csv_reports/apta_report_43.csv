@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-7281
+issued_in,Cohenville
+consigned_from,"Ruiz PLC
+3214 Brandon Knolls
+South Erikaside, IL 73652"
+consigned_to,"Hunt, Cook and Villarreal
+20075 Warner Drives Apt. 816
+South Juliachester, HI 52138"
+transport_route,Sea via North Kenneth
+official_use,Approved by Trade Dept.
+tariff_item_number,7919
+package_marks_numbers,PKG-61
+package_description,Trial green that trade.
+origin_criterion,Rule C
+gross_weight_or_quantity,526 kg
+invoice_number_date,INV-56114 dated 2016-05-25
+declaration_country,India
+importing_country,Tonga
+declaration_place_date,"North Travismouth, 2005-06-22"
+declaration_signature,Dr. Heather Meyer
+certification_place_date,"Kayleeton, 1990-07-06"
+certification_signature_stamp,Nicholas Lin
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,3,Acceptable performance; needs better optimization.
+Scalability,3,Acceptable performance; needs better optimization.
+Robustness/Resilience,4,Good performance with minor improvements suggested.
+Latency,4,Good performance with minor improvements suggested.
+Throughput,3,Acceptable performance; needs better optimization.
+Security,4,Good performance with minor improvements suggested.
+Usability/User-Friendliness,5,Excellent performance under all tested conditions.
+Maintainability,3,Acceptable performance; needs better optimization.
+Availability,3,Acceptable performance; needs better optimization.
+Cost,4,Good performance with minor improvements suggested.
+Flexibility/Adaptability,5,Excellent performance under all tested conditions.
+Portability,5,Excellent performance under all tested conditions.
+Interoperability,5,Excellent performance under all tested conditions.
+Resource Utilization,5,Excellent performance under all tested conditions.
+Documentation Quality,4,Good performance with minor improvements suggested.

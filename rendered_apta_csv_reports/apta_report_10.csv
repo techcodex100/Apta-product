@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-2788
+issued_in,Snyderburgh
+consigned_from,"Thompson, Howard and Anderson
+06587 Campbell Inlet Apt. 488
+Port Kristin, MI 74696"
+consigned_to,"Rhodes-Johnson
+788 Russell Glen Suite 799
+Lake Melissaburgh, MS 87300"
+transport_route,Sea via Kevinport
+official_use,Approved by Trade Dept.
+tariff_item_number,4659
+package_marks_numbers,PKG-192
+package_description,Use plant wonder near central.
+origin_criterion,Rule C
+gross_weight_or_quantity,633 kg
+invoice_number_date,INV-32728 dated 2001-01-26
+declaration_country,India
+importing_country,Portugal
+declaration_place_date,"Andreamouth, 2024-12-08"
+declaration_signature,Christopher Green
+certification_place_date,"Joland, 1991-01-06"
+certification_signature_stamp,Ashley Patterson
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,3,Acceptable performance; needs better optimization.
+Scalability,5,Excellent performance under all tested conditions.
+Robustness/Resilience,3,Acceptable performance; needs better optimization.
+Latency,5,Excellent performance under all tested conditions.
+Throughput,4,Good performance with minor improvements suggested.
+Security,4,Good performance with minor improvements suggested.
+Usability/User-Friendliness,5,Excellent performance under all tested conditions.
+Maintainability,4,Good performance with minor improvements suggested.
+Availability,4,Good performance with minor improvements suggested.
+Cost,5,Excellent performance under all tested conditions.
+Flexibility/Adaptability,4,Good performance with minor improvements suggested.
+Portability,3,Acceptable performance; needs better optimization.
+Interoperability,4,Good performance with minor improvements suggested.
+Resource Utilization,5,Excellent performance under all tested conditions.
+Documentation Quality,5,Excellent performance under all tested conditions.

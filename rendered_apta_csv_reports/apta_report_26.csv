@@ -1,0 +1,40 @@
+🔹 Dummy Input Field,Value
+reference_no,APTA-REF-4883
+issued_in,Jameshaven
+consigned_from,"Bush, Nelson and Jones
+920 Jasmine Rue
+Castanedabury, AL 58516"
+consigned_to,"Perez-Tucker
+00581 Marie Vista
+North Christophermouth, VA 99324"
+transport_route,Sea via Port Michael
+official_use,Approved by Trade Dept.
+tariff_item_number,2382
+package_marks_numbers,PKG-799
+package_description,Story social identify table.
+origin_criterion,Rule A
+gross_weight_or_quantity,881 kg
+invoice_number_date,INV-59327 dated 1982-06-29
+declaration_country,India
+importing_country,Germany
+declaration_place_date,"Sarabury, 2024-08-22"
+declaration_signature,Nicholas Price
+certification_place_date,"Berryville, 2000-11-26"
+certification_signature_stamp,Richard Singleton
+
+✅ Test Parameter,Rating (1–5),Remarks
+Reliability,3,Acceptable performance; needs better optimization.
+Scalability,5,Excellent performance under all tested conditions.
+Robustness/Resilience,4,Good performance with minor improvements suggested.
+Latency,4,Good performance with minor improvements suggested.
+Throughput,5,Excellent performance under all tested conditions.
+Security,4,Good performance with minor improvements suggested.
+Usability/User-Friendliness,5,Excellent performance under all tested conditions.
+Maintainability,3,Acceptable performance; needs better optimization.
+Availability,3,Acceptable performance; needs better optimization.
+Cost,3,Acceptable performance; needs better optimization.
+Flexibility/Adaptability,4,Good performance with minor improvements suggested.
+Portability,3,Acceptable performance; needs better optimization.
+Interoperability,3,Acceptable performance; needs better optimization.
+Resource Utilization,4,Good performance with minor improvements suggested.
+Documentation Quality,5,Excellent performance under all tested conditions.
